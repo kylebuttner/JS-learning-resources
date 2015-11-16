@@ -21,6 +21,7 @@
 
 ## Articles
 * [16 JavaScript Concepts JavaScript Professionals Must Know Well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+* [12 Rules for Professional JavaScript in 2015](https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc)
 * [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * [Init.js: A Guide to the Why and How of Full-Stack JavaScript](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
 * [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
