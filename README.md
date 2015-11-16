@@ -18,6 +18,7 @@
 * [Markdown](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
 * [JS Cheat Sheet](http://marijnhaverbeke.nl/js-cheatsheet.html)
 * [JavaScript Shorthand](http://www.sitepoint.com/shorthand-javascript-techniques/)
+* [Nested Arrays](http://www.elated.com/articles/nested-arrays-in-javascript/)
 
 ## Articles
 * [16 JavaScript Concepts JavaScript Professionals Must Know Well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
