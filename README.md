@@ -6,6 +6,7 @@
 ### General
 * *[Codecademy](https://www.codecademy.com/learn/javascript)*
 * [Treehouse](https://teamtreehouse.com/library/topic:javascript)
+
 ### JavaScript
 * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
   * [First three hours free](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
@@ -16,6 +17,7 @@
 * [Learn You Node](https://github.com/workshopper/learnyounode)
 * [Quick Node/Express/Jade/Mongo Tutorial](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 * [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs/)
+
 ### Git
 * [GitHub](https://training.github.com/classes/)
  
