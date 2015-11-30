@@ -1,5 +1,7 @@
 # JavaScript Learning Resources
 
+With Christmas coming up...[an advent calendar for web geeks](https://24ways.org/) (h/t [@tu6619](https://github.com/tu6619/))
+
 *FAC prereqs italicized*
 
 ## Online Courses
